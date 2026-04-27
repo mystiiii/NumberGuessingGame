@@ -14,4 +14,4 @@ python3 NumberGuessingGame.py
 3. Known limitations
 - The lower and upper bounds of the guessing range (1 to 100) are hardcoded and cannot be changed without modifying the code.
 - The game runs indefinitely until the correct number is guessed or the program is forcibly terminated. There is no option to quit midway.
-- Playing again requires re-running the script.
+- Playing again requires re-running the file.
